@@ -7,6 +7,6 @@ pathtools==0.1.2
 pygtail==0.11.0
 pypng==0.0.20
 PyQRCode==1.2.1
-PyYAML==5.1.2
+PyYAML==5.4
 requests==2.22.0
 urllib3==1.25.3
